@@ -1,5 +1,5 @@
 <h1 align="center">Mehdi Hadian</h1>
-<p align="center">Backend Developer</p>
+<p align="center">Programmer</p>
 
 ---
 
