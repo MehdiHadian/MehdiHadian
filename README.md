@@ -3,7 +3,7 @@
 
 ---
 
-Backend Development • API Development • Python Automation • Trading Tools
+Backend Development • API Development • Python Automation • Trading Tools Development
 
 ---
 
