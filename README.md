@@ -11,5 +11,5 @@ Backend Development • API Development • Python Automation • Trading Tools 
 
 - Email: mhdihdn11@gmail.com  
 - Website: https://mhadian.ir  
-- LinkedIn: https://linkedin.com/in/mhdi-hdn-590a2031a  
+- LinkedIn: https://linkedin.com/in/mehdi-hadian 
 - Telegram: https://t.me/M_Hadian
